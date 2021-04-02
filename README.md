@@ -1,5 +1,5 @@
 # Practice
 
-# Editing this file
+## Editing this file
 
 Este es un markdown file in this respository
