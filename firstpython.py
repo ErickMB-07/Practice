@@ -1,2 +1,2 @@
 # Display the output
-print("Hello World")
+print("Hello World ")
